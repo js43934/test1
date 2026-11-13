@@ -1,15 +1,7 @@
-This is our RCIS 2026 Forum paper. 
+This is a supplementary report to a CAiSE 2027 paper submission 
 
-Mapping Capabilities with LLMs: Requirements and Feasibility Assessment of Capability Broker
-Authors
-Adrian Olbricht, Jennifer Skopac, Jan Lundberg, Jelena Zdravkovic, Janis Stirna
-Publication date
-2026/5/26
-Book
-International Conference on Research Challenges in Information Science
-Pages
-140-152
-Publisher
-Springer Nature Switzerland
-Description
-Capabilities provide a structured and stable business-centric view of what an organization is able to do, when, and under what conditions. Capability has become a standard design element of enterprise architecture frameworks such as NAF, TOGAF, ArchiMate and many others. Despite its usefulness, clear modularity, and purpose of the capability notion, many companies struggle becoming capability-aware and being able to continuously and efficiently manage their capability portfolios. To support this process, this paper presents requirements and an early design prototype of Capability Broker – an LLM based tool for discovering capabilities from organizational documents and creating capability models. The feasibility of the tool is demonstrated with an example case.
+Summary	
+The formative ex-ante evaluation [1],[2] of the framework, reported in [3], assessed understanding and clarity, usability, utility and decision support, relevance and practical applicability, and evaluation credibility. All dimension means were above the midpoint of the 10-point scale. Utility and decision support received the strongest overall assessment (M = 7.14). Practical applicability (M = 6.01) and evaluation credibility (M = 5.61) were more cautious, particularly for independent use in real work. The qualitative findings were consistent with this pattern, where participants recognized the frameworks value but requested clearer navigation, explicit outputs, practical examples, and more opportunity to apply the framework independently.
+This refinement report therefore focuses on practical accessibility and traceability rather than adding further conceptual components. The refined framework, hereafter referred to as a method framework for Capability Integration in military C2-system design - abbreviated CI-C2 - supports practitioners in framing an architecture concern, selecting and sequencing the smallest sufficient set of Method Chunks, and identifying the architectural work required to answer the concern. Method Chunk outputs provide evidence and model content for project-specific views and work products conforming to selected NATO Architecture Framework (NAF) [4] viewpoints. Eligible local processes, roles, applications and services are linked to NATO C3 Taxonomy Baseline 6 artefacts where applicable [5]. CI-C2 remains primarily a method-support layer, i.e., it guides architectural and design reasoning.  Annex B records the design task, selected Method Chunk path, planned architectural work and final navigation decision. Annex C records detailed taxonomy linkage. These records support traceability but do not constitute separate outputs. The framework produces one integrated architecture result.
+In this report, the refinement requirements have been implemented in CI-C2. The principal changes improve entry-point guidance, visual separation, START/STOP conditions, onboarding, NATO C3 Taxonomy traceability, and preparation for independent dry-run use. The conceptual scope of CI-C2 remains intact.
+
